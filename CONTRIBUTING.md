@@ -6,6 +6,7 @@ We want this project to be **welcoming for beginners** and helpful for anyone le
 ---
 
 ## 📖 Contribution Steps
+
 1. Fork the repository
 2. Clone your fork
 3. Create a new branch
@@ -21,6 +22,7 @@ We want this project to be **welcoming for beginners** and helpful for anyone le
 ---
 
 ## 📝 Rules
+
 - Only submit **working and tested code**
 - Keep problem files **organized** by topic
 - Add your **name** in `CONTRIBUTORS.md`
@@ -29,6 +31,7 @@ We want this project to be **welcoming for beginners** and helpful for anyone le
 ---
 
 ## 📚 Resources for Beginners
+
 - [LeetCode](https://leetcode.com/)  
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 - [CP-Algorithms](https://cp-algorithms.com/)  

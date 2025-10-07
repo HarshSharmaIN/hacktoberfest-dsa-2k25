@@ -3,6 +3,7 @@
 Thanks to all the amazing contributors! 🎉
 
 - Sahil Kumar (@SahilKumarIN)
+- Aryan Kumar (@Mystify7777)
 - Rishiraj Singh Rathore (@flickerbot)
 - Ruturaj Pawar (@Ruturaj-007)
 - Megha Vaswani (@megha-66)
